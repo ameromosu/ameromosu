@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @ameromosu
-- 👀 I’m interested in learn programing
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me on discord: Amerom#1480
+- 👋 Hi, I’m Andrey
+- 🌱 I currently know python and i'm interested in C/C#
+- 💞️ I’m looking to collaborate
+- 📫 How to reach me on discord: Amerom
 
 <!---
 ameromosu/ameromosu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
